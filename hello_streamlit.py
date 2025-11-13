@@ -1,5 +1,7 @@
 import streamlit as st
-st.write('Hello world!')
-st.write('원건호')
+if st.button('Say hello): 
+  st.write('Hello world!')
+  st.write('원건호')
+
 
 
